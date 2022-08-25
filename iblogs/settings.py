@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-9f)bt!1hl3=b!wri+o_gtzf5pm_ffmq$2$oa(k&vb6ilb56ueb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://timeline-treasures.herokuapp.com/']
 
 
 # Application definition
