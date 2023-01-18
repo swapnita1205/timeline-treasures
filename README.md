@@ -1,7 +1,5 @@
 # Timeline Treasures
 
-Demo-https://timeline-treasures.herokuapp.com/
-
 •Responsive blogging application built with the help of Django. Aunthentication is secured to allow further
 addition, modification or deletion to the content to be done only by the authorized user.
 
