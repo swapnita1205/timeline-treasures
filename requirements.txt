@@ -7,3 +7,5 @@ sqlparse==0.4.2
 tzdata==2022.2
 whitenoise==6.2.0
 whitespace==1.0.0b8
+setuptools==65.3.0
+wheel==0.37.1
